@@ -1,1 +1,6 @@
-# docker-java8
+# docker-oracle-java8
+
+## Build
+
+Enter the following command in the repo directory.
+`sudo docker build --force-rm=true -t oracle-java8 .`
